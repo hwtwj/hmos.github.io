@@ -15,10 +15,6 @@
     <meta content="email=no" name="format-detection">
     <!--手机页脚end-->
     <title>鸿蒙OSHarmonyOS华为操作系统开源LiteOS源码开发者社区鸿蒙OS源码【经典收藏】</title>
-    <meta name="description" content="支持国产华为鸿蒙源码开发指南，非官网" />
-    
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <link href="http://itbook.28581688.cn/index-1.0.5.css" rel="stylesheet" type="text/css" media="all" />
 
 </head>
 <body >
@@ -61,7 +57,23 @@
         <p>Huawei LiteOS 简介：Huawei LiteOS是华为针对物联网领域推出的轻量级物联网操作系统，是华为物联网战略的重要组成部分，具备轻量级、低功耗、互联互通、组件丰富、快速开发等关键能力，基于物联网领域业务特征打造领域性技术栈，为开发者提供 "一站式" 完整软件平台，有效降低开发门槛、缩短开发周期，可广泛应用于可穿戴设备、智能家居、车联网、LPWA等领域。</p>
         <p>Huawei LiteOS自开源社区发布以来，围绕物联网市场从技术、生态、解决方案、商用支持等多维度使能合作伙伴，构建开源的物联网生态,目前已经聚合了50+ MCU和解决方案合作伙伴，共同推出一批开源开发套件和行业解决方案，帮助众多行业客户快速的推出物联网终端和服务，客户涵盖抄表、停车、路灯、环保、共享单车、物流等众多行业，加速物联网产业发展和行业数字化转型。</p>
     
-
+             
+        <strong>华为鸿蒙操作系统微内核官网</strong>
+        <p></p>
+        <a href="https://www.huawei.com/minisite/liteos/cn/index.html">https://www.huawei.com/minisite/liteos/cn/index.html</a>
+        <p></p>
+        <strong style="color:#00F">技术文档</strong>
+        <a href="https://liteos.github.io">https://liteos.github.io</a>
+        <strong style="color:#00F">github源码下载</strong>
+        <a href="https://github.com/LiteOS/LiteOS9M">https://github.com/LiteOS/LiteOS9M</a>
+        <p><strong style="color:#00F">华为开发者中心</strong></p>
+        <a href="https://developer.huaweicloud.com/iot">https://developer.huaweicloud.com/iot</a>
+        <p><strong style="color:#00F">github源码下载</strong></p>
+        <a href="https://github.com/LiteOS/LiteOS9M">https://github.com/LiteOS/LiteOS9M</a>
+ 
+  
+        <h2>支付和获取方式</h2>
+        <p>一切以华为官网信息为准，LiteOS开源已经很久了！</p>
 
 </div>
 
