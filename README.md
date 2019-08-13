@@ -2,7 +2,7 @@
 华为鸿蒙os开发者文档索引，huawei liteos hongmeng os
 
 
-<!doctype html>
+
 <html>
 <head>
     <meta charset="utf-8">
@@ -14,7 +14,7 @@
     <meta content="telephone=no" name="format-detection">
     <meta content="email=no" name="format-detection">
     <!--手机页脚end-->
-    <title>鸿蒙OSHarmonyOS华为操作系统开源LiteOS源码开发者社区鸿蒙OS源码【经典收藏】</title>
+    # # 鸿蒙OSHarmonyOS华为操作系统开源LiteOS源码开发者社区鸿蒙OS源码【经典收藏】
 
 </head>
 <body >
