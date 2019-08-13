@@ -19,32 +19,7 @@
     <meta name="baidu-site-verification" content="abomsZtyAE" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <link href="http://itbook.28581688.cn/index-1.0.5.css" rel="stylesheet" type="text/css" media="all" />
-    <style>
-        /**star**/
-        .login_box{height:auto;min-height:390px;padding-bottom:10px;transform: translate(-50%,-50%);margin:0;}
-        .yzm_cont{width:262px;height:42px;margin:12px auto 0;}
-        .yzm_input{width:150px;height:40px;border:1px solid #D2D2D2;border-radius:3px;padding-left:10px;font-size:16px;outline:none;font-size:14px;float:left;}
-        .yzm_img{width:90px;height:40px;float:right;display: block;border:1px solid #ddd;cursor: pointer;}
-        .lawful_name{width: 250px;height: 40px;border: 1px solid #D2D2D2;border-radius: 3px;margin-top: 12px;padding-left: 10px;font-size: 16px;outline: none;font-size: 14px;}
-        /**end**/
-        /**end**/
-        /**手机页脚**/
-        .phoneFooter_info{display: none;background:#ffeb00;padding:30px 0;}
-        .phoneFooterInfo_text{font-size:14px;color: #00000;line-height:14px;text-align: center;}
-        @media only screen and (max-width: 414px){
-            .phoneFooter_info{display: block;}
-        }
-        /**手机页脚end**/
-        /*举报添加20170807*/
-        .reportHeaderCont{display:inline-block;padding:10px 15px;font-size:14px;color:#666;line-height:20px;background:#fff;border:1px solid #999;position: absolute;right:-50px;top:40px;white-space: nowrap;display: none;text-align:left;}
-        .reportHeaderBtn{position: relative;}
-        .reportHeaderBtn:hover .reportHeaderCont{display: block;font-weight: normal;}
-        @media only screen and (max-width:414px) {
-            .reportHeaderCont{right:0px;top:44px;}
-        }
-        .reportExpText h5{font-size:16px;color:#333;line-height:30px;margin:5px;}
-        .reportExpText p{font-size:14px;color:#333;line-height:30px;text-indent:2em;}
-    </style>
+
 </head>
 <body >
 <!--登录框-->
