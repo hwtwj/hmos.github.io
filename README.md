@@ -63,11 +63,11 @@
         <strong style="color:#00F">技术文档</strong>
         <a href="https://liteos.github.io">https://liteos.github.io</a>
         <strong style="color:#00F">github源码下载</strong>
-        <a href="https://github.com/LiteOS/LiteOS9M">https://github.com/LiteOS/LiteOS9M</a>
+        <a href="https://github.com/LiteOS/LiteOS">https://github.com/LiteOS/LiteOS</a>
         <p><strong style="color:#00F">华为开发者中心</strong></p>
         <a href="https://developer.huaweicloud.com/iot">https://developer.huaweicloud.com/iot</a>
         <p><strong style="color:#00F">github源码下载</strong></p>
-        <a href="https://github.com/LiteOS/LiteOS9M">https://github.com/LiteOS/LiteOS9M</a>
+        <a href="https://github.com/LiteOS/LiteOS">https://github.com/LiteOS/LiteOS</a>
         <h2>支付和获取方式</h2>
         <p>一切以华为官网信息为准，LiteOS开源已经很久了！</p>
  
